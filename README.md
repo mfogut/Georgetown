@@ -1,2 +1,2 @@
-# CapStone Project 
+# Georgetown University CapStone Project 
 ### Data-Oriented-Proposal-Engine
