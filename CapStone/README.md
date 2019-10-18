@@ -1,1 +1,6 @@
-
+- When you run this script it will create table in Postgresql and populate the all information from your Data Frame to Postgresql.
+- User only need to run the script and input the asking information.
+- User need to give exact path CSV file. (C:\\Users\\User\\Documents\\example.csv)
+- Default Postgresql Username : postgres.
+- Defaul Postgresql Password : postgres.
+- If you change your username and password please use them.
